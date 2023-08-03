@@ -1,0 +1,6 @@
+{
+    "configuration": "pnum=NTS1_REF_CP_REVC,upload_method=swdMethod,xserial=generic,opt=osstd,rtlib=nano",
+    "board": "NTS-1 Custom Panels:stm32:NTS1_Custom_Panels",
+    "port": "COM13",
+    "sketch": "Sequencer_Template.ino"
+}

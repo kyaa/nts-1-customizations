@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tomsa\Documents\Git\nts-1-customizations\Custom_Panel_RevC\KiCAD\NTS-1_CustomPanel.sch</source>
+    <date>6/2/2023 11:07:16 PM</date>
+    <tool>Eeschema (6.0.11)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>NTS-1 Custom Panel Schematic</title>
+        <company>KORG INC.</company>
+        <rev>C</rev>
+        <date>2019-12-25</date>
+        <source>NTS-1_CustomPanel.sch</source>
+        <comment number="1" value="NTS-1 digital kit"/>
+        <comment number="2" value="Yoshihito Yamada"/>
+        <comment number="3" value="Kazuya Miura"/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C104K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C104K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e06a435</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="manf#">C0805C105K4PAC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0805C105K4PAC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4fc7bd</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C104K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C104K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0697ae</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C104K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C104K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e067807</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C104K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C104K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e069f66</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1000p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C102K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C102K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e100dd6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1000p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">C0603C102K4REC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="manf#" value="C0603C102K4REC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e11750c</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>19x2 2.54mm header</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x19_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">1-87215-9</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x19_Odd_Even" description="Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="1-87215-9"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e24e562</tstamps>
+    </comp>
+    <comp ref="CN2">
+      <value>1x7 2.54mm header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">XJ8B-0711</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="XJ8B-0711"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e29b485</tstamps>
+    </comp>
+    <comp ref="CN3">
+      <value>1x8 2.54mm connector</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">215299-8</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="215299-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3318a2</tstamps>
+    </comp>
+    <comp ref="CN4">
+      <value>1x6 2.54mm connector</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">215299-6</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="215299-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3932c9</tstamps>
+    </comp>
+    <comp ref="CN5">
+      <value>1x10 2.54mm connector</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">215299-10</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="215299-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e34bb</tstamps>
+    </comp>
+    <comp ref="CN6">
+      <value>1x8 2.54mm connector</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">215299-8</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="215299-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4ba014</tstamps>
+    </comp>
+    <comp ref="CN7">
+      <value>1x7 2.54mm header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">XJ8B-0711</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="XJ8B-0711"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e29c11a</tstamps>
+    </comp>
+    <comp ref="CN8">
+      <value>19x2 2.54mm header</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x19_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">1-87215-9</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x19_Odd_Even" description="Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="1-87215-9"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e12c3ff</tstamps>
+    </comp>
+    <comp ref="CN9">
+      <value>1x3 2.54mm header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">826926-3</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="826926-3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0a77aa</tstamps>
+    </comp>
+    <comp ref="CN10">
+      <value>1x4 2.54mm header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">826926-4</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="826926-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0a7ce0</tstamps>
+    </comp>
+    <comp ref="CN11">
+      <value>1x3 2.54mm header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="manf#">826926-3</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="manf#" value="826926-3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e10ed6f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e07e239</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a2b65</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a3087</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a3505</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a37b4</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a3a63</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a3e1f</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07220RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07220RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1a417f</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e40180b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-070RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e421dd8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0747RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0747RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0c373d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0747RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0747RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0c35bd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0747RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0747RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0c338a</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0747RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0747RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0c03d7</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>33</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0733RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0733RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e101f4f</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e117de8</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-07100KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e102550</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0747KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0747KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e11821d</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0ce328</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0d5bcd</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0d5d5a</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="manf#">RC0603JR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="manf#" value="RC0603JR-071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e10232a</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e807e91</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e043dbb</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0440b3</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e044390</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e044570</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0476f5</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e047afb</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e047d58</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e047f02</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>TACT SW</value>
+      <footprint>CustomPanel:SW_Tactile_SKRH</footprint>
+      <fields>
+        <field name="manf#">SKRGAAD010</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="manf#" value="SKRGAAD010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/tomsa/Documents/Git/nts-1-customizations/Custom_Panel_RevC/KiCAD/NTS-1_CustomPanel.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e0480f3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x19_Odd_Even">
+      <description>Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x19_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/BOOT0">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="/BOOT_PNL">
+      <node ref="CN7" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/CK_PNL">
+      <node ref="CN7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/NRST">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="CN3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/PA0">
+      <node ref="CN1" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="CN4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="6" name="/PA1">
+      <node ref="CN1" pin="29" pinfunction="Pin_29" pintype="passive"/>
+      <node ref="CN4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="7" name="/PA2">
+      <node ref="CN6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CN8" pin="36" pinfunction="Pin_36" pintype="passive"/>
+      <node ref="CN9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="8" name="/PA3">
+      <node ref="CN6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN8" pin="38" pinfunction="Pin_38" pintype="passive"/>
+      <node ref="CN9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="9" name="/PA4">
+      <node ref="CN1" pin="31" pinfunction="Pin_31" pintype="passive"/>
+      <node ref="CN4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="10" name="/PA5">
+      <node ref="CN5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="CN8" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="11" name="/PA6">
+      <node ref="CN5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="CN8" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="12" name="/PA7">
+      <node ref="CN5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="CN8" pin="16" pinfunction="Pin_16" pintype="passive"/>
+    </net>
+    <net code="13" name="/PA8">
+      <node ref="CN6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="CN8" pin="24" pinfunction="Pin_24" pintype="passive"/>
+    </net>
+    <net code="14" name="/PA9">
+      <node ref="CN5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN8" pin="22" pinfunction="Pin_22" pintype="passive"/>
+    </net>
+    <net code="15" name="/PA10">
+      <node ref="CN6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN8" pin="34" pinfunction="Pin_34" pintype="passive"/>
+    </net>
+    <net code="16" name="/PA11">
+      <node ref="CN8" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/PA12">
+      <node ref="CN8" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/PA13">
+      <node ref="CN1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="CN10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="19" name="/PA14">
+      <node ref="CN1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="CN10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="20" name="/PA15">
+      <node ref="CN1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="/PANEL_ACK">
+      <node ref="CN2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/PB0">
+      <node ref="CN1" pin="33" pinfunction="Pin_33" pintype="passive"/>
+      <node ref="CN4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="23" name="/PB1">
+      <node ref="CN8" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/PB2">
+      <node ref="CN8" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/PB3">
+      <node ref="CN6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="CN8" pin="32" pinfunction="Pin_32" pintype="passive"/>
+    </net>
+    <net code="26" name="/PB4">
+      <node ref="CN6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="CN8" pin="28" pinfunction="Pin_28" pintype="passive"/>
+    </net>
+    <net code="27" name="/PB5">
+      <node ref="CN6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="CN8" pin="30" pinfunction="Pin_30" pintype="passive"/>
+    </net>
+    <net code="28" name="/PB6">
+      <node ref="CN5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN8" pin="18" pinfunction="Pin_18" pintype="passive"/>
+    </net>
+    <net code="29" name="/PB7">
+      <node ref="CN1" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/PB8">
+      <node ref="CN5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="CN8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="31" name="/PB9">
+      <node ref="CN5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="CN8" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="32" name="/PB10">
+      <node ref="CN6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN8" pin="26" pinfunction="Pin_26" pintype="passive"/>
+    </net>
+    <net code="33" name="/PB11">
+      <node ref="CN8" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="/PB12">
+      <node ref="CN8" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/PB13">
+      <node ref="CN8" pin="29" pinfunction="Pin_29" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="/PB14">
+      <node ref="CN8" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/PB15">
+      <node ref="CN8" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="/PC0">
+      <node ref="CN1" pin="37" pinfunction="Pin_37" pintype="passive"/>
+      <node ref="CN4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="39" name="/PC1">
+      <node ref="CN1" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="CN4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="40" name="/PC2">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="36" pinfunction="Pin_36" pintype="passive"/>
+    </net>
+    <net code="41" name="/PC3">
+      <node ref="CN1" pin="38" pinfunction="Pin_38" pintype="passive"/>
+    </net>
+    <net code="42" name="/PC4">
+      <node ref="CN8" pin="33" pinfunction="Pin_33" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="/PC5">
+      <node ref="CN8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="/PC6">
+      <node ref="CN8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="/PC7">
+      <node ref="CN5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CN8" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="46" name="/PC8">
+      <node ref="CN8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="/PC9">
+      <node ref="CN8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="48" name="/PC10">
+      <node ref="CN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="/PC11">
+      <node ref="CN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="50" name="/PC12">
+      <node ref="CN1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="/PC13">
+      <node ref="CN1" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="/PC14">
+      <node ref="CN1" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="/PC15">
+      <node ref="CN1" pin="28" pinfunction="Pin_28" pintype="passive"/>
+    </net>
+    <net code="54" name="/PD2">
+      <node ref="CN1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="55" name="/PF0">
+      <node ref="CN1" pin="30" pinfunction="Pin_30" pintype="passive"/>
+    </net>
+    <net code="56" name="/PF1">
+      <node ref="CN1" pin="32" pinfunction="Pin_32" pintype="passive"/>
+    </net>
+    <net code="57" name="/PF4">
+      <node ref="CN8" pin="37" pinfunction="Pin_37" pintype="passive"/>
+    </net>
+    <net code="58" name="/PF5">
+      <node ref="CN8" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="/PF6">
+      <node ref="CN1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="/PF7">
+      <node ref="CN1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="/RX_PNL">
+      <node ref="CN7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="/TX_PNL">
+      <node ref="CN7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="/~{RESET_PNL}">
+      <node ref="CN11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="64" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="CN1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="CN1" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="CN1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="CN3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN7" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="CN8" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="CN8" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="CN8" pin="31" pinfunction="Pin_31" pintype="passive"/>
+      <node ref="CN9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="CN2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(CN1-Pad11)">
+      <node ref="CN1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="CN1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="CN3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CN3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(CN2-Pad6)">
+      <node ref="CN2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(CN5-Pad8)">
+      <node ref="CN5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="CN8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(CN11-Pad2)">
+      <node ref="CN11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(R19-Pad1)">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="unconnected-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="unconnected-(CN1-Pad5)">
+      <node ref="CN1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(CN1-Pad6)">
+      <node ref="CN1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="76" name="unconnected-(CN1-Pad9)">
+      <node ref="CN1" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(CN1-Pad17)">
+      <node ref="CN1" pin="17" pinfunction="Pin_17" pintype="passive+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(CN1-Pad23)">
+      <node ref="CN1" pin="23" pinfunction="Pin_23" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(CN1-Pad25)">
+      <node ref="CN1" pin="25" pinfunction="Pin_25" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(CN1-Pad34)">
+      <node ref="CN1" pin="34" pinfunction="Pin_34" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(CN2-Pad3)">
+      <node ref="CN2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(CN2-Pad4)">
+      <node ref="CN2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(CN3-Pad1)">
+      <node ref="CN3" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(CN3-Pad5)">
+      <node ref="CN3" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(CN3-Pad8)">
+      <node ref="CN3" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(CN8-Pad7)">
+      <node ref="CN8" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(CN8-Pad9)">
+      <node ref="CN8" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(CN10-Pad1)">
+      <node ref="CN10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(CN11-Pad3)">
+      <node ref="CN11" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="98" name="unconnected-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="99" name="unconnected-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
